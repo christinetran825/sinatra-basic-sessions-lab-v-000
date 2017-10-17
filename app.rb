@@ -8,7 +8,7 @@ class App < Sinatra::Base
 
   post '/checkout' do
     # @ = params[:item]
-    # 
+    #
     # 
   end
 end
